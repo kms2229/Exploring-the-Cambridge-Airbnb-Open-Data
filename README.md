@@ -8,6 +8,8 @@ The "Cambridge (Massachusetts) Airbnb Open Data" project aims to analyze and gai
 
 Dataset Overview:
 
-Source: The dataset is part of Airbnb's public data initiative and can be accessed from the original source here.
+Source: The dataset is part of Airbnb's public data initiative and can be accessed from the original source here:
+https://www.kaggle.com/datasets/whenamancodes/cambridge-massachusetts-airbnb-open-data
+
 Scope: The dataset focuses specifically on Cambridge, Massachusetts, offering a comprehensive view of Airbnb operations in this location throughout 2022.
 
